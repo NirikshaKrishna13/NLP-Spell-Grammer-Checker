@@ -1,0 +1,6 @@
+This folder is reserved for optional datasets or custom vocabulary files.
+
+The current project does not require a large external dataset because it uses:
+- NLTK English word corpus
+- A small explainable correction dictionary
+- Rule-based grammar patterns
